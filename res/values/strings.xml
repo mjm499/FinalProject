@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinalProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hightemp">Please enter the high temperature you would like</string>
+    <string name="lowtemp">Please enter the low temperature you would like</string>
+    <string name="conditions">Please select your weather conditions from the menu</string>
+
+</resources>
