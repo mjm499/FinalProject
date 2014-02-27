@@ -6,6 +6,58 @@
     <string name="hello_world">Hello world!</string>
     <string name="hightemp">Please enter the high temperature you would like</string>
     <string name="lowtemp">Please enter the low temperature you would like</string>
-    <string name="conditions">Please select your weather conditions from the menu</string>
+    <string name="conditions">Please select your weather conditions</string>
 
+    <string-array name="zipcodes_array">
+        <item>03878</item>
+		<item>19104</item>
+		<item>90210</item>
+		<item>07620</item>
+		<item>94027</item>
+		<item>90274</item>
+		<item>11962</item>
+		<item>94010</item>
+		<item>95070</item>
+		<item>10012</item>
+		<item>11976</item>
+		<item>81654</item>
+		<item>92067</item>
+		<item>06831</item>
+		<item>90077</item>
+		<item>81611</item>
+		<item>07976</item>
+		<item>21056</item>
+		<item>03247</item>
+		<item>18360</item>
+		<item>80517</item>
+		<item>27801</item>
+		<item>62446</item>
+		<item>28219</item>
+		<item>21781</item>
+		<item>01095</item>
+		<item>30434</item>
+		<item>61564</item>
+		<item>46517</item>
+		<item>27099</item>
+		<item>44662</item>
+		<item>50217</item>
+		<item>02904</item>
+		<item>22041</item>
+		<item>14225</item>
+		<item>28634</item>
+		<item>61615</item>
+		<item>85942</item>
+		<item>25846</item>
+		<item>29440</item>
+		<item>37219</item>
+		<item>37079</item>
+		<item>36048</item>
+		<item>70464</item>
+		<item>21690</item>
+		<item>24076</item>
+		<item>15642</item>
+		<item>47032</item>
+		<item>22907</item>
+		<item>04942</item>
+		</string-array>
 </resources>
